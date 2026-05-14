@@ -63,8 +63,7 @@ Acesse [opensky-network.org](https://opensky-network.org) e registre-se gratuita
 |------------|--------------------------------------|
 | `AIRPORTS` | `SBCA,SBGR,SBSP,SBCT,SBGL,SBBR`    |
 
-    /* AIRPORTS: ${{ vars.AIRPORTS || 'SBCA' }}
-          AVIATIONSTACK_KEY: ${{ secrets.AVIATIONSTACK_KEY }} BASTARIA ADICIONAR SBGR,SBSP,SBCT,SBGL E SBBR PARA ADICIONAR OUTROS AEROPORTOS, NAO ADICIONEI OUTROS POIS O PLANO GRATUITO É LIMITADO*/
+  
 
 ### 5. Ativar GitHub Pages
 **Settings → Pages → Source: Deploy from a branch → main / (root)**
