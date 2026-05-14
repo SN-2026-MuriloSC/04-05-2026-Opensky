@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T19:01:06.040646+00:00",
+  "updated_at": "2026-05-14T19:09:30.805016+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
@@ -172,8 +172,8 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-14T10:00:00+00:00",
-      "time_iso": "2026-05-14T10:13:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-14T10:15:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "LA3858",
@@ -453,8 +453,8 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-14T10:40:00+00:00",
-      "time_iso": "2026-05-14T10:56:00+00:00",
-      "status": "pousado"
+      "time_iso": "2026-05-14T10:40:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA3859",
